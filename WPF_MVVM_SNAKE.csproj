@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>disable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\Icons\logo.ico" />
+    <None Remove="Assets\Images\backspace.png" />
+    <None Remove="Assets\Images\menu.png" />
+    <None Remove="Assets\Images\reload.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\Icons\logo.ico" />
+    <Resource Include="Assets\Images\backspace.png" />
+    <Resource Include="Assets\Images\menu.png" />
+    <Resource Include="Assets\Images\reload.png" />
+  </ItemGroup>
+
+</Project>

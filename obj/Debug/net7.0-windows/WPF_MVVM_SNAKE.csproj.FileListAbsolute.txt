@@ -1,0 +1,84 @@
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Топ\WPF\SnakeGame\bin\Debug\net7.0-windows\WPF_MVVM_SNAKE.exe
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Топ\WPF\SnakeGame\bin\Debug\net7.0-windows\WPF_MVVM_SNAKE.deps.json
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Топ\WPF\SnakeGame\bin\Debug\net7.0-windows\WPF_MVVM_SNAKE.runtimeconfig.json
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Топ\WPF\SnakeGame\bin\Debug\net7.0-windows\WPF_MVVM_SNAKE.dll
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Топ\WPF\SnakeGame\bin\Debug\net7.0-windows\WPF_MVVM_SNAKE.pdb
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Топ\WPF\SnakeGame\obj\Debug\net7.0-windows\Views\Windows\MainWindow.baml
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Топ\WPF\SnakeGame\obj\Debug\net7.0-windows\Views\Pages\GamePage.g.cs
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Топ\WPF\SnakeGame\obj\Debug\net7.0-windows\Views\Pages\MenuPage.g.cs
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Топ\WPF\SnakeGame\obj\Debug\net7.0-windows\Views\Pages\StatisticsPage.g.cs
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Топ\WPF\SnakeGame\obj\Debug\net7.0-windows\Views\Windows\MainWindow.g.cs
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Топ\WPF\SnakeGame\obj\Debug\net7.0-windows\App.g.cs
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Топ\WPF\SnakeGame\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Топ\WPF\SnakeGame\obj\Debug\net7.0-windows\WPF_MVVM_SNAKE_MarkupCompile.cache
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Топ\WPF\SnakeGame\obj\Debug\net7.0-windows\WPF_MVVM_SNAKE_MarkupCompile.lref
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Топ\WPF\SnakeGame\obj\Debug\net7.0-windows\App.baml
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Топ\WPF\SnakeGame\obj\Debug\net7.0-windows\Views\Pages\GamePage.baml
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Топ\WPF\SnakeGame\obj\Debug\net7.0-windows\Views\Pages\MenuPage.baml
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Топ\WPF\SnakeGame\obj\Debug\net7.0-windows\Views\Pages\StatisticsPage.baml
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Топ\WPF\SnakeGame\obj\Debug\net7.0-windows\WPF_MVVM_SNAKE.g.resources
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Топ\WPF\SnakeGame\obj\Debug\net7.0-windows\WPF_MVVM_SNAKE.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Топ\WPF\SnakeGame\obj\Debug\net7.0-windows\WPF_MVVM_SNAKE.AssemblyInfoInputs.cache
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Топ\WPF\SnakeGame\obj\Debug\net7.0-windows\WPF_MVVM_SNAKE.AssemblyInfo.cs
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Топ\WPF\SnakeGame\obj\Debug\net7.0-windows\WPF_MVVM_SNAKE.csproj.CoreCompileInputs.cache
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Топ\WPF\SnakeGame\obj\Debug\net7.0-windows\WPF_MVVM_SNAKE.dll
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Топ\WPF\SnakeGame\obj\Debug\net7.0-windows\refint\WPF_MVVM_SNAKE.dll
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Топ\WPF\SnakeGame\obj\Debug\net7.0-windows\WPF_MVVM_SNAKE.pdb
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Топ\WPF\SnakeGame\obj\Debug\net7.0-windows\WPF_MVVM_SNAKE.genruntimeconfig.cache
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Топ\WPF\SnakeGame\obj\Debug\net7.0-windows\ref\WPF_MVVM_SNAKE.dll
+C:\Users\user\Desktop\Учеба\WPF\Змейка (Мой код)\SnakeGame\bin\Debug\net7.0-windows\WPF_MVVM_SNAKE.exe
+C:\Users\user\Desktop\Учеба\WPF\Змейка (Мой код)\SnakeGame\bin\Debug\net7.0-windows\WPF_MVVM_SNAKE.deps.json
+C:\Users\user\Desktop\Учеба\WPF\Змейка (Мой код)\SnakeGame\bin\Debug\net7.0-windows\WPF_MVVM_SNAKE.runtimeconfig.json
+C:\Users\user\Desktop\Учеба\WPF\Змейка (Мой код)\SnakeGame\bin\Debug\net7.0-windows\WPF_MVVM_SNAKE.dll
+C:\Users\user\Desktop\Учеба\WPF\Змейка (Мой код)\SnakeGame\bin\Debug\net7.0-windows\WPF_MVVM_SNAKE.pdb
+C:\Users\user\Desktop\Учеба\WPF\Змейка (Мой код)\SnakeGame\obj\Debug\net7.0-windows\Views\Windows\MainWindow.baml
+C:\Users\user\Desktop\Учеба\WPF\Змейка (Мой код)\SnakeGame\obj\Debug\net7.0-windows\Views\Pages\GamePage.g.cs
+C:\Users\user\Desktop\Учеба\WPF\Змейка (Мой код)\SnakeGame\obj\Debug\net7.0-windows\Views\Pages\MenuPage.g.cs
+C:\Users\user\Desktop\Учеба\WPF\Змейка (Мой код)\SnakeGame\obj\Debug\net7.0-windows\Views\Pages\StatisticsPage.g.cs
+C:\Users\user\Desktop\Учеба\WPF\Змейка (Мой код)\SnakeGame\obj\Debug\net7.0-windows\Views\Windows\MainWindow.g.cs
+C:\Users\user\Desktop\Учеба\WPF\Змейка (Мой код)\SnakeGame\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\user\Desktop\Учеба\WPF\Змейка (Мой код)\SnakeGame\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\Учеба\WPF\Змейка (Мой код)\SnakeGame\obj\Debug\net7.0-windows\WPF_MVVM_SNAKE_MarkupCompile.cache
+C:\Users\user\Desktop\Учеба\WPF\Змейка (Мой код)\SnakeGame\obj\Debug\net7.0-windows\WPF_MVVM_SNAKE_MarkupCompile.lref
+C:\Users\user\Desktop\Учеба\WPF\Змейка (Мой код)\SnakeGame\obj\Debug\net7.0-windows\App.baml
+C:\Users\user\Desktop\Учеба\WPF\Змейка (Мой код)\SnakeGame\obj\Debug\net7.0-windows\Views\Pages\GamePage.baml
+C:\Users\user\Desktop\Учеба\WPF\Змейка (Мой код)\SnakeGame\obj\Debug\net7.0-windows\Views\Pages\MenuPage.baml
+C:\Users\user\Desktop\Учеба\WPF\Змейка (Мой код)\SnakeGame\obj\Debug\net7.0-windows\Views\Pages\StatisticsPage.baml
+C:\Users\user\Desktop\Учеба\WPF\Змейка (Мой код)\SnakeGame\obj\Debug\net7.0-windows\WPF_MVVM_SNAKE.g.resources
+C:\Users\user\Desktop\Учеба\WPF\Змейка (Мой код)\SnakeGame\obj\Debug\net7.0-windows\WPF_MVVM_SNAKE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Учеба\WPF\Змейка (Мой код)\SnakeGame\obj\Debug\net7.0-windows\WPF_MVVM_SNAKE.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Учеба\WPF\Змейка (Мой код)\SnakeGame\obj\Debug\net7.0-windows\WPF_MVVM_SNAKE.AssemblyInfo.cs
+C:\Users\user\Desktop\Учеба\WPF\Змейка (Мой код)\SnakeGame\obj\Debug\net7.0-windows\WPF_MVVM_SNAKE.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учеба\WPF\Змейка (Мой код)\SnakeGame\obj\Debug\net7.0-windows\WPF_MVVM_SNAKE.dll
+C:\Users\user\Desktop\Учеба\WPF\Змейка (Мой код)\SnakeGame\obj\Debug\net7.0-windows\refint\WPF_MVVM_SNAKE.dll
+C:\Users\user\Desktop\Учеба\WPF\Змейка (Мой код)\SnakeGame\obj\Debug\net7.0-windows\WPF_MVVM_SNAKE.pdb
+C:\Users\user\Desktop\Учеба\WPF\Змейка (Мой код)\SnakeGame\obj\Debug\net7.0-windows\WPF_MVVM_SNAKE.genruntimeconfig.cache
+C:\Users\user\Desktop\Учеба\WPF\Змейка (Мой код)\SnakeGame\obj\Debug\net7.0-windows\ref\WPF_MVVM_SNAKE.dll
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Цифра\Экзамен\SnakeGame\bin\Debug\net7.0-windows\WPF_MVVM_SNAKE.exe
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Цифра\Экзамен\SnakeGame\bin\Debug\net7.0-windows\WPF_MVVM_SNAKE.deps.json
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Цифра\Экзамен\SnakeGame\bin\Debug\net7.0-windows\WPF_MVVM_SNAKE.runtimeconfig.json
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Цифра\Экзамен\SnakeGame\bin\Debug\net7.0-windows\WPF_MVVM_SNAKE.dll
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Цифра\Экзамен\SnakeGame\bin\Debug\net7.0-windows\WPF_MVVM_SNAKE.pdb
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Цифра\Экзамен\SnakeGame\obj\Debug\net7.0-windows\Views\Windows\MainWindow.baml
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Цифра\Экзамен\SnakeGame\obj\Debug\net7.0-windows\Views\Pages\GamePage.g.cs
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Цифра\Экзамен\SnakeGame\obj\Debug\net7.0-windows\Views\Pages\MenuPage.g.cs
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Цифра\Экзамен\SnakeGame\obj\Debug\net7.0-windows\Views\Pages\StatisticsPage.g.cs
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Цифра\Экзамен\SnakeGame\obj\Debug\net7.0-windows\Views\Windows\MainWindow.g.cs
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Цифра\Экзамен\SnakeGame\obj\Debug\net7.0-windows\App.g.cs
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Цифра\Экзамен\SnakeGame\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Цифра\Экзамен\SnakeGame\obj\Debug\net7.0-windows\WPF_MVVM_SNAKE_MarkupCompile.cache
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Цифра\Экзамен\SnakeGame\obj\Debug\net7.0-windows\WPF_MVVM_SNAKE_MarkupCompile.lref
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Цифра\Экзамен\SnakeGame\obj\Debug\net7.0-windows\App.baml
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Цифра\Экзамен\SnakeGame\obj\Debug\net7.0-windows\Views\Pages\GamePage.baml
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Цифра\Экзамен\SnakeGame\obj\Debug\net7.0-windows\Views\Pages\MenuPage.baml
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Цифра\Экзамен\SnakeGame\obj\Debug\net7.0-windows\Views\Pages\StatisticsPage.baml
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Цифра\Экзамен\SnakeGame\obj\Debug\net7.0-windows\WPF_MVVM_SNAKE.g.resources
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Цифра\Экзамен\SnakeGame\obj\Debug\net7.0-windows\WPF_MVVM_SNAKE.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Цифра\Экзамен\SnakeGame\obj\Debug\net7.0-windows\WPF_MVVM_SNAKE.AssemblyInfoInputs.cache
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Цифра\Экзамен\SnakeGame\obj\Debug\net7.0-windows\WPF_MVVM_SNAKE.AssemblyInfo.cs
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Цифра\Экзамен\SnakeGame\obj\Debug\net7.0-windows\WPF_MVVM_SNAKE.csproj.CoreCompileInputs.cache
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Цифра\Экзамен\SnakeGame\obj\Debug\net7.0-windows\WPF_MVVM_SNAKE.dll
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Цифра\Экзамен\SnakeGame\obj\Debug\net7.0-windows\refint\WPF_MVVM_SNAKE.dll
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Цифра\Экзамен\SnakeGame\obj\Debug\net7.0-windows\WPF_MVVM_SNAKE.pdb
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Цифра\Экзамен\SnakeGame\obj\Debug\net7.0-windows\WPF_MVVM_SNAKE.genruntimeconfig.cache
+E:\Учеба (Ижгту, Удгу и тд)\Учеба\Цифра\Экзамен\SnakeGame\obj\Debug\net7.0-windows\ref\WPF_MVVM_SNAKE.dll
